@@ -1,0 +1,470 @@
+client: My External IP is: 192.168.1.71
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+client: My External IP is: 192.168.1.71
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+client: My External IP is: 192.168.1.71
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+client: My External IP is: 192.168.1.71
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+client: My External IP is: 192.168.1.71
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 50937))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 50937))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 50937))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Value updated to 2
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51395))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51395))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51395))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Out of date value->"1"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51519))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51519))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51519))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Out of date value->"1"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51521))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51521))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51521))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"2
+"
+AdderRequestHandler: Value updated to 3
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51522))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51522))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51522))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"3
+"
+AdderRequestHandler: Value updated to 4
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51523))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51523))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51523))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"5
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51524))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51524))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51524))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"5
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51525))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51525))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51525))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"6
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51526))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51526))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51526))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Out of date value->"1"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51527))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51527))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51527))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"14
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51549))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51549))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51549))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Out of date value->"1"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51550))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51550))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51550))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"2
+"
+AdderRequestHandler: Out of date value->"2"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51551))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51551))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51551))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"3
+"
+AdderRequestHandler: Out of date value->"3"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51553))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51553))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51553))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"4
+"
+AdderRequestHandler: Value updated to 5
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51556))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51556))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51556))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"5
+"
+AdderRequestHandler: Value updated to 6
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51557))
+AdderServer: process_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51557))
+AdderServer: finish_request(<socket._socketobject object at 0x10654f9f0>, ('127.0.0.1', 51557))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"7
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10654f9f0>)
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x1011a19f0>, ('127.0.0.1', 51632))
+AdderServer: process_request(<socket._socketobject object at 0x1011a19f0>, ('127.0.0.1', 51632))
+AdderServer: finish_request(<socket._socketobject object at 0x1011a19f0>, ('127.0.0.1', 51632))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Value updated to 2
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x1011a19f0>)
+AdderServer: verify_request(<socket._socketobject object at 0x1011a19f0>, ('127.0.0.1', 51820))
+AdderServer: process_request(<socket._socketobject object at 0x1011a19f0>, ('127.0.0.1', 51820))
+AdderServer: finish_request(<socket._socketobject object at 0x1011a19f0>, ('127.0.0.1', 51820))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Out of date value->"1"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x1011a19f0>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x100634a60>, ('127.0.0.1', 52388))
+AdderServer: process_request(<socket._socketobject object at 0x100634a60>, ('127.0.0.1', 52388))
+AdderServer: finish_request(<socket._socketobject object at 0x100634a60>, ('127.0.0.1', 52388))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 52388))
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Value updated to 2
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x100634a60>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x10258dd00>, ('127.0.0.1', 53162))
+AdderServer: process_request(<socket._socketobject object at 0x10258dd00>, ('127.0.0.1', 53162))
+AdderServer: finish_request(<socket._socketobject object at 0x10258dd00>, ('127.0.0.1', 53162))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 53162))
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10258dd00>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x1076c0c90>, ('127.0.0.1', 53259))
+AdderServer: process_request(<socket._socketobject object at 0x1076c0c90>, ('127.0.0.1', 53259))
+AdderServer: finish_request(<socket._socketobject object at 0x1076c0c90>, ('127.0.0.1', 53259))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 53259))
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x1076c0c90>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x105bafc20>, ('127.0.0.1', 53361))
+AdderServer: process_request(<socket._socketobject object at 0x105bafc20>, ('127.0.0.1', 53361))
+AdderServer: finish_request(<socket._socketobject object at 0x105bafc20>, ('127.0.0.1', 53361))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 53361))
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: Contains an address
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x105bafc20>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x1053fdc20>, ('127.0.0.1', 53393))
+AdderServer: process_request(<socket._socketobject object at 0x1053fdc20>, ('127.0.0.1', 53393))
+AdderServer: finish_request(<socket._socketobject object at 0x1053fdc20>, ('127.0.0.1', 53393))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 53393))
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: Contains an address
+AdderServer: meet_other(localhost 7772
+)
+AdderServer: add_other_address(localhost 7772
+)
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x1053fdc20>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x1049b1c20>, ('127.0.0.1', 53511))
+AdderServer: process_request(<socket._socketobject object at 0x1049b1c20>, ('127.0.0.1', 53511))
+AdderServer: finish_request(<socket._socketobject object at 0x1049b1c20>, ('127.0.0.1', 53511))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 53511))
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: Contains an address
+AdderServer: meet_other(localhost 7772
+)
+AdderServer: add_other_address(localhost 7772
+)
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x1049b1c20>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x10bfa2c20>, ('127.0.0.1', 53589))
+AdderServer: process_request(<socket._socketobject object at 0x10bfa2c20>, ('127.0.0.1', 53589))
+AdderServer: finish_request(<socket._socketobject object at 0x10bfa2c20>, ('127.0.0.1', 53589))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 53589))
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: Contains an address
+AdderServer: meet_other(('localhost', '7772'))
+AdderServer: add_other_address(('localhost', '7772'))
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10bfa2c20>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x107983c20>, ('127.0.0.1', 54939))
+AdderServer: process_request(<socket._socketobject object at 0x107983c20>, ('127.0.0.1', 54939))
+AdderServer: finish_request(<socket._socketobject object at 0x107983c20>, ('127.0.0.1', 54939))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 54939))
+AdderServer: New address ('127.0.0.1', 54939) is not properly formatted
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x107983c20>)
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: waiting for request
+AdderServer: __init__
+AdderServer: __init__
+AdderServer: server_activate
+AdderServer: server_activate
+AdderServer: waiting for request
+AdderServer: waiting for request
+AdderServer: verify_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55447))
+AdderServer: process_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55447))
+AdderServer: finish_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55447))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 55447))
+AdderServer: New address ('127.0.0.1', 55447) is not properly formatted
+AdderRequestHandler: recv()->"1
+"
+AdderRequestHandler: Value updated to 2
+AdderServer: send_to_others
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10d7e2c20>)
+AdderServer: verify_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55470))
+AdderServer: process_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55470))
+AdderServer: finish_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55470))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 55470))
+AdderServer: New address ('127.0.0.1', 55470) is not properly formatted
+AdderRequestHandler: recv()->"localhost 772
+"
+AdderRequestHandler: Contains an address
+AdderServer: meet_other(('localhost', 772))
+AdderServer: add_other_address(('localhost', 772))
+AdderServer: New address ('localhost', 772) is not properly formatted
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10d7e2c20>)
+AdderServer: verify_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55471))
+AdderServer: process_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55471))
+AdderServer: finish_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55471))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 55471))
+AdderServer: New address ('127.0.0.1', 55471) is not properly formatted
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: Contains an address
+AdderServer: meet_other(('localhost', 7772))
+AdderServer: add_other_address(('localhost', 7772))
+AdderServer: New address ('localhost', 7772) is not properly formatted
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10d7e2c20>)
+AdderServer: verify_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55518))
+AdderServer: process_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55518))
+AdderServer: finish_request(<socket._socketobject object at 0x10d7e2c20>, ('127.0.0.1', 55518))
+AdderRequestHandler: __init__
+AdderRequestHandler: setup
+AdderRequestHandler: handle
+AdderServer: add_other_address(('127.0.0.1', 55518))
+AdderServer: New address ('127.0.0.1', 55518) is not properly formatted
+AdderRequestHandler: recv()->"localhost 7772
+"
+AdderRequestHandler: Contains an address
+AdderServer: meet_other(('localhost', 7772))
+AdderServer: add_other_address(('localhost', 7772))
+AdderServer: New address ('localhost', 7772) is not properly formatted
+AdderRequestHandler: finish
+AdderServer: close_request(<socket._socketobject object at 0x10d7e2c20>)
